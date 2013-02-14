@@ -4,7 +4,7 @@ crate_items={
   {items = {'default:cobble'},   rarity = 2,},
 }
 
-chess_items={
+chest_items={
 {},
 }
 
